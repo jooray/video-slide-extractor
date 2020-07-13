@@ -3,7 +3,7 @@
 Two simple scripts to extract keyframes with set number of changes and then filter out frames with faces
 
 You've listened to a great talk and you would like to go over slides and include them in your notes.
-You don't want to to over the video again, so you:
+You don't want to watch the whole video again, so you:
 
  - Extract keyframes that are likely to contain new slides (extract-frames.sh)
  - If the conference has good production, you filter out every slide that has faces. Since this is fuzzy, you can go over two directories - faces/ and the original directory (filter-faces.sh)
